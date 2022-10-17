@@ -1,4 +1,4 @@
-# Hopspital Admission Prediction
+# Hospital Admission Prediction
 Amy Jung's ML modeling of hospital admission prediction.
 
 *Skills: medical claims data, de-identified patient info, exploratory data analysis, data mapping, modeling*
