@@ -1,7 +1,7 @@
 # Hopspital Admission Prediction
 Amy Jung's ML modeling of hospital admission prediction.
 
-*Skills: Medical claims data, de-identified patient info, exploratory data analysis, data mapping, modeling*
+*Skills: medical claims data, de-identified patient info, exploratory data analysis, data mapping, modeling*
 
 This repository comprises of:
 1. [final model](https://github.com/redcarrott/pulseData-takehome/blob/main/AMYJUNG_takehome_assignment.ipynb)  *(Jupyter Notebook)*
